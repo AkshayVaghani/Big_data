@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 19 10:55:13 CDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015f-3558-800f-000007729350 
+on database directory /Users/akshay/Documents/Postdoc/DataScience_MachineLearning_courses/Udemy/Python-and-Spark-for-Big-Data-master/Spark_for_Machine_Learning/Tree_Methods/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@6f831663 
+Loaded from file:/usr/local/Cellar/apache-spark/2.2.0/libexec/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Users/akshay/Documents/Postdoc/DataScience_MachineLearning_courses/Udemy/Python-and-Spark-for-Big-Data-master/Spark_for_Machine_Learning/Tree_Methods
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
